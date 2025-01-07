@@ -1,10 +1,38 @@
-- 👋 Olá, me sou o @Geberson16
-- 👀 Eu tenho interesse em programação web, javascript, nodejs, reactjs, angular, C#, python.
-- 🌱 Estou aprendendo atualmente programação web, javascript, nodejs, reactjs.
-- 📫 Como chegar até min: geberson_ti@hotmail.com
-- ⚡ Curiosidade: Musico, Violino, Cinema, Estudar, Familia.
 
-<!---
-Geberson16/Geberson16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Olá! Eu sou o Geberson Oliveira!🙋🏻‍♂️
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%A9berson-oliveira-lopes-a59821228/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/geberson16?igsh=b2h5b3Y4eHNnODRk)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Geberson16&show_icons=true&theme=dracula)
+
+
+
+### Tecnologias que estou estudando:
+
+<div style="display: incline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+
+
+
+
+
+    
+
+</div>
+
+
+
+
+
+
+
+

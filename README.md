@@ -2,7 +2,6 @@
 - 👀 Eu tenho interesse em programação web, javascript, nodejs, reactjs, angular, C#, python.
 - 🌱 Estou aprendendo atualmente programação web, javascript, nodejs, reactjs.
 - 📫 Como chegar até min: geberson_ti@hotmail.com
-- 😄 Pronomes: Ele
 - ⚡ Curiosidade: Musico, Violino, Cinema, Estudar, Familia.
 
 <!---

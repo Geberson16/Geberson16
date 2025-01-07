@@ -7,8 +7,7 @@
 
 
 ![Anurag' GitHub stats](https://github-readme-stats.vercel.app/api?username=Geberson16&show_icons=true&theme=dracula)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Geberson16&layout=compact)
 
 ### Tecnologias que estou estudando:
 
